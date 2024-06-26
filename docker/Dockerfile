@@ -1,6 +1,6 @@
 FROM inseefrlab/onyxia-rstudio:r4.3.2-2024.02.13
 
-# Add files necessary for the running app
+# Add files necessary for the running the app
 ADD correction/global.R .
 ADD correction/ui.R .
 ADD correction/server.R .
