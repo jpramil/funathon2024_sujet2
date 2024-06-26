@@ -20,7 +20,7 @@ input_airport <- selectInput(
 )
 
 ui <- page_navbar(
-  title = "Tableau de bord des aéroports français",
+  title = "Tableau de bord des aéroports français - FORK JP",
   bg = main_color,
   inverse = TRUE,
   header = em("Projet issu du funathon 2024, organisé par l'Insee et la DGAC"),
